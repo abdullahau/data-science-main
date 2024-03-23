@@ -11,7 +11,7 @@ This notebook uses machine learning algorithms to get the best accuracy of predi
 - [Activate](https://docs.python.org/3/tutorial/venv.html) your virtual environment
 - Once your environment is activated, navigate to the folder containing the project/repo files and run the following command in the terminal to install all required packages:
   - `pip install -r requirements.txt`
-- In VS Code, open the [Titanic.ipynb](Titanic.ipynb) file and ensure the right kernel is connected
+- In VS Code, open the [Titanic - Abdullah.ipynb](Titanic - Abdullah.ipynb) file and ensure the right kernel is connected
 - To be able to view the decision tree in the output, you will need to install the [graphviz](https://graphviz.org/download/) library.
   - I used graphviz version 10.0.1 (post installation you can check the version and correct installation by running `dot -V` in the terminal)
   - I simply used scoop on windows to install graphviz. You can use brew on Mac/Linux to install graphviz.
